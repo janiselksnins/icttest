@@ -47,7 +47,6 @@
 				<td>Produkta pievienošana vai labošana ar atribūtiem.<br/>{status:&lt;BOOLEAN&gt;, message:&lt;STRING&gt;}<br/>
 				    *! Ja id === 0, tiek pievienots jauns produkts;<br/>
 				    *! Ja product_attributes:name nav atrodams, tiek pievienots jauns atribūta veids.
-
 				</td>
 			    </tr>
 			    <tr>
